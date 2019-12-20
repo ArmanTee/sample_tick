@@ -106,8 +106,20 @@ if[not system"t";
     ];
 
 \d .
-.u.tick[src;.z.x 1];
 
+.u.tick[src;.z.x 1];
+system "l tick/log.q";
+.z.ts_old: .z.ts;
+upd_old: .u.upd;
+.u.msg: 0;
+.u.upd: {upd_old[x;y]; .u.msg+:count[y]}
+msgLog:([] time: enlist .z.P; msgLog: enlist 0; subs:enlist "");
+
+.z.ts:{.z.ts_old[x];
+        if[00:01:00< .z.P-last[msgLog]`time;
+        `msgLog upsert flip (enlist .z.P;enlist .u.msg;enlist "" sv ";" vs -3!raze key[.u.w],''value .u.w  );
+         ] };
+/ updates for logging number of messages
 \
  globals used
  .u.w - dictionary of tables->(handle;syms)

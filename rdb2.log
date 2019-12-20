@@ -1,0 +1,13 @@
+OUT -- @2019.11.24D14:42:53.035106000 -  From arman:Port close to this process --  via handle: 0 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!351376 67108864 67108864 0 0 1689393..
+OUT -- @2019.11.24D16:21:21.413527000 -  From arman:Port close to this process --  via handle: 5 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!134569184 335544320 335544320 0 0 16..
+OUT -- @2019.12.18D12:43:47.008465000 -  From arman:Port close to this process --  via handle: 0 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!351312 67108864 67108864 0 0 1689393..
+OUT -- @2019.12.18D13:39:19.877011000 -  From arman:Port close to this process --  via handle: 5 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!351280 67108864 67108864 0 0 1689393..
+'2019.12.18T13:44:35.667 cannot listen on uds @/tmp/kx.5013. OS reports: Address already in use
+OUT -- @2019.12.18D13:46:45.674894000 -  From arman:Port close to this process --  via handle: 0 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!351312 67108864 67108864 0 0 1689393..
+OUT -- @2019.12.18D13:51:09.214480000 -  From arman:Port close to this process --  via handle: 5 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!351280 67108864 67108864 0 0 1689393..
+OUT -- @2019.12.18D13:54:17.180177000 -  From arman:Port close to this process --  via handle: 0 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!351312 67108864 67108864 0 0 1689393..
+OUT -- @2019.12.18D14:01:03.885228000 -  From arman:Port close to this process --  via handle: 5 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!351280 67108864 67108864 0 0 1689393..
+OUT -- @2019.12.18D14:49:27.918997000 -  From arman:Port close to this process --  via handle: 0 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!351312 67108864 67108864 0 0 1689393..
+OUT -- @2019.12.18D15:32:30.538636000 -  From arman:Port close to this process --  via handle: 5 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!2710688 67108864 67108864 0 0 168939..
+OUT -- @2019.12.18D15:57:24.785789000 -  From arman:Port close to this process --  via handle: 0 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!351312 67108864 67108864 0 0 1689393..
+OUT -- @2019.12.18D16:02:30.186296000 -  From arman:Port close to this process --  via handle: 5 -- `used`heap`peak`wmax`mmap`mphy`syms`symw!351280 67108864 67108864 0 0 1689393..
